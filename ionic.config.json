@@ -1,0 +1,7 @@
+{
+  "name": "enrutamientos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
